@@ -1,6 +1,6 @@
  -👋 Hi, I’m Dimitris Papazacharias @papazachos
  -👀 I’m interested in Everything that has to do with the Dept of Technology
- -🌱 I’m currently wokring on Quality Management and Testing.
+ -🌱 I’m currently working on Quality Management and Testing.
  -📫 You can Ask for my resume, using the following.
  -email: dimitrispap.1995@hotmail.com 
  -linkedin:https://www.linkedin.com/in/dimitris-papazacharias-a8b41a124/
